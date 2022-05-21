@@ -14,3 +14,6 @@ Now we will add CSS to this section and the first step is to convert the section
 The next step is to style our form with the help of CSS. We will differently style contact::before, contact-box, contact-box input, contact-box form, and contact-box label. After doing all the necessary changes, the form will look as follows:
 
 ![2022-05-22 (7)](https://user-images.githubusercontent.com/97392986/169671352-778ada6d-08ec-4925-b5e1-77ec1fd13e65.png)
+The next step is to make the website responsive. For making it responsive, we will make a new file as phone.css and necessary code here. After doing all the necessary changes to make the website responsive, the result will look as follows:
+
+![2022-05-22 (9)](https://user-images.githubusercontent.com/97392986/169671903-a1134a36-673c-4654-ae98-7210e4775aec.png)
